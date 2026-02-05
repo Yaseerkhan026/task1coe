@@ -5,3 +5,4 @@
 5. rm : remove file
 6. rmdir : remove the directory
 7. cd .. : back to previous directory
+
