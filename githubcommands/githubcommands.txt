@@ -1,0 +1,4 @@
+git branch : shows current branch
+git status : shows status
+git push origin main : upload work to main branch
+git switch main : switch to main branch
